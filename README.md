@@ -8,3 +8,5 @@
 git push origin master
 
 7.git reset
+8. git diff
+9.git reset --hard
